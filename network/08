@@ -1,0 +1,13 @@
+First we need to find the A records for the domain, so we run `dig any slash16.org`
+
+```
+;; ANSWER SECTION:
+slash16.org.            59      IN      A       13.225.84.89
+slash16.org.            59      IN      A       13.225.84.84
+slash16.org.            59      IN      A       13.225.84.228
+slash16.org.            59      IN      A       13.225.84.69
+```
+
+We can then run whois on one of the IP Addresses: `whois 13.225.84.69`
+
+And we can see lots of mentions of Amazon in the output from whois, therefore we can assume the provider of slash16.org is AWS.

@@ -1,0 +1,1 @@
+ifconfig enp3s0 | grep broadcast | awk '{print $6}'
