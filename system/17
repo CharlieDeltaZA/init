@@ -1,0 +1,2 @@
+# ssh username@vm-ip-address
+ssh charlie@192.168.88.200

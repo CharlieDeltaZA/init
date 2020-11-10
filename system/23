@@ -1,0 +1,2 @@
+To connect via SSH: `ssh username@ip-address` and enter the users password when prompted.
+To connect via GUI: Simply select the user, and enter the password.

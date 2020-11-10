@@ -1,0 +1,2 @@
+You will need to modify /etc/hostname
+You may also need to modify /etc/hosts if any mentions of the old hostname are in this file
