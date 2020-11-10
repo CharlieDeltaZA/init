@@ -1,4 +1,11 @@
 # init
+### Score TBD/100
+#### Mandatory
+TBD/100
+
+#### Bonus
+N/A
+
 
 Summary: Introduction subject to System and Network Administration
 
