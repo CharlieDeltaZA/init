@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Hello! Here are some details about you:"
+echo "You are '`whoami`'"
+echo "You are in the following directory:"
+echo "`pwd`"
+echo ""
+echo "The machines hostname is '`hostname`'"
+echo "Todays date is `date`"
