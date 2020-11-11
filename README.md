@@ -1,7 +1,7 @@
 # init
-### Score TBD/100
+### Score 100/100
 #### Mandatory
-TBD/100
+100/100
 
 #### Bonus
 N/A
