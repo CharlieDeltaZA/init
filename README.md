@@ -6,6 +6,7 @@
 #### Bonus
 N/A
 
+WeThinkCode_ DevOps module - Project 2
 
 Summary: Introduction subject to System and Network Administration
 
